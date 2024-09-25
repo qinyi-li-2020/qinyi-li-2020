@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 My name is Qinyi, and I'm in my 5th year of the MInf Informatics programme at the University of Edinburgh.
 

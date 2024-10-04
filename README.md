@@ -4,7 +4,7 @@ My name is Qinyi, and I'm in my 5th year of the MInf Informatics programme at th
 
 🔭 I'm currently working on...
 - my **MInf Part 2 Project**, a dissertation in _training neural networks for self-supervised speech representation learning_
-- and also at the same time working remotely part-time as a **research intern** on machine learning methods to effectively utilise and extract the capabilities of _large language models (LLMs) for reasoning_
+- and also at the same time working remotely part-time as a **research intern** on machine learning methods to effectively utilise and extract the capabilities of _multi-agent large language models (LLMs) for reasoning_
 
 🌱 I'm currently exploring new domains through courses to broaden my perspectives! At the moment, I'm learning...
 - Data Science at Scale

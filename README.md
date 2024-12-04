@@ -4,14 +4,13 @@ My name is Qinyi, and I'm in my 5th year of the MInf Informatics programme at th
 
 🔭 I'm currently working on...
 - my **MInf Part 2 Project**, a dissertation in _training neural networks for self-supervised speech representation learning_
-- and also at the same time working remotely part-time as a **research intern** on machine learning methods to effectively utilise and extract the capabilities of _multi-agent large language models (LLMs) for reasoning_
 
 🌱 I'm currently exploring new domains through courses to broaden my perspectives! At the moment, I'm learning...
 - Data Science at Scale
 - Biomedical Informatics
 - Algorithms and Data Structures
-- Causal Inference
-- Reinforcement Learning
+- Algorithmic Game Theory
+- Machine Learning Theory
 
 ⚡ My three main hobbies are music, photography, and sports!
 - 🎹 I play the piano myself! The latest piece which I'm trying to conquer (and not succeeding very much) is Chopin's first Ballade. Beyond classical music, I enjoy exploring the pop music scene and am always on the lookout for new sounds and genres that catch my ear.

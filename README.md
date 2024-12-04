@@ -1,12 +1,12 @@
 ## Hi there! 👋
 
-My name is Qinyi, and I'm in my 5th year of the MInf Informatics programme at the University of Edinburgh.
+My name is Qinyi, and I'm in my 5th and final year of studying the Master of Informatics programme at the University of Edinburgh.
 
-🔭 I'm currently working on...
-- my **MInf Part 2 Project**, a dissertation in _training neural networks for self-supervised speech representation learning_
+🔭 At the moment I'm mainly working on...
+- my **MInf Part 2 Project**, a dissertation on _Frame-wise Dynamic Mixture-of-Experts Routing for Speech Processing_
 
 🌱 I'm currently exploring new domains through courses to broaden my perspectives! At the moment, I'm learning...
-- Data Science at Scale
+- Programming for Data Science at Scale
 - Biomedical Informatics
 - Algorithms and Data Structures
 - Algorithmic Game Theory
@@ -15,7 +15,7 @@ My name is Qinyi, and I'm in my 5th year of the MInf Informatics programme at th
 ⚡ My three main hobbies are music, photography, and sports!
 - 🎹 I play the piano myself! The latest piece which I'm trying to conquer (and not succeeding very much) is Chopin's first Ballade. Beyond classical music, I enjoy exploring the pop music scene and am always on the lookout for new sounds and genres that catch my ear.
 - 📸 I love travelling and capturing the stunning scenery and experiences through photography. Even when I’m not on the road, I enjoy documenting the beautiful moments around Edinburgh - this place never fails to inspire!
-- 🏃‍♀️ I've dabbled in a lot of sports growing up, though my late favourites have been table tennis🏓 and snowsports🏂
+- 🏃‍♀️ I’ve tried my hand at many sports growing up, though table tennis🏓 has been a late favourite - I'm determined to master the art that is table tennis spins!
 
 <!--
 **qinyi-li-2020/qinyi-li-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
